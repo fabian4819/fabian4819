@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development, Data Science, Mobile Development**
 
-- 👨‍💻 All of my projects are available at [https://replica-letterbox.netlify.app/](https://replica-letterbox.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fabian.web.id](https://fabian.web.id)
 
 - 📫 How to reach me **bianfahlesi50@gmail.com**
 
