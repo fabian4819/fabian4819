@@ -24,12 +24,10 @@ Most of my work lives on the backend: Go microservices, Kafka, Redis, PostgreSQL
 
 ### Highlights
 
-| | |
-|---|---|
-| 💸 **Rp500M+** | processed in transactions on Roetix, across 20+ clients |
-| ⚡ **99.9% uptime** | for 1,000+ concurrent users during flash sales |
-| 🏗️ **3 mining sites** | Sorowako, Bahodopi and Pomalaa run on LAM.ID |
-| 📲 **150+ campaign groups** | use my WhatsApp tagging bot across 5+ agencies |
+- 💸 **Rp500M+** processed in transactions on Roetix, across 20+ clients
+- ⚡ **99.9% uptime** for 1,000+ concurrent users during flash sales
+- 🏗️ **3 mining sites** (Sorowako, Bahodopi and Pomalaa) running on LAM.ID
+- 📲 **150+ campaign groups** using my WhatsApp tagging bot, across 5+ agencies
 
 ---
 
