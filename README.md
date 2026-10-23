@@ -90,7 +90,7 @@ More projects at **[fabian.biz.id](https://fabian.biz.id)**.
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabian4819&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian4819&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabian4819&theme=github_dark" alt="Top languages"/>
 </p>
 
 ---
